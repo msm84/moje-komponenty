@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.2">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">* {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>box-sizing: border-box;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">footer {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background: url('https://orange.codeberryschool.com/content/images/project-assets/simple-footer.png') repeat center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: table;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 100vw;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>height: 8rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-family: 'Arial', sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: .875rem;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.wrapper {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: table-cell;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>vertical-align: middle;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">footer small {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: #ccc;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>letter-spacing: .025rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin-bottom: 1.5rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: block;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.footer-nav a {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-decoration: none;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: #c74f78;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0 .5rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: inline-block;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.footer-nav a:hover {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: #f26896;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>transition: color .15s ease-in-out;</p>
+<p class="p1">}</p>
+</body>
+</html>

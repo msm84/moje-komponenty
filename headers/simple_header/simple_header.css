@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 4 rem;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+header img {
+  width: 4rem;
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 100%;
+  padding: .25rem;
+}
